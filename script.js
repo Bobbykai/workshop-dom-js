@@ -1,4 +1,4 @@
-alert('HELLOWORLD')
-function message() {
-  console.log("Hello World");
+
+function message(a) {
+  console.log(`Hello ${a}, ca va aujourd'hui? `);
 }
